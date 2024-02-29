@@ -19,9 +19,6 @@ The finance tracker is a console-based application that allows users to record t
 
 ## Getting Started
 
-### Prerequisites
-
-- Python 3.6 or higher
 
 ### Installation
 
@@ -30,5 +27,5 @@ The finance tracker is a console-based application that allows users to record t
 3. There's no need for additional libraries beyond what's included in Python's standard library.
 
 ### Running the Application
-- Setup the virtual enviroment using "python3 -m venv venv"
-- You will be able to run program in terminal by typing "python main.py"
+- Setup the virtual environment using "python -m venv venv"
+- You will be able to run the program in the terminal by typing "python main.py"
